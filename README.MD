@@ -1,4 +1,5 @@
-Please add your info to the bottom of the table in an empty row markdown format. You can also include your information to this public list - https://startuphire.me/ 
+Please add your info to the bottom of the table in an empty row markdown format. 
+
 
 |  Name 	|  Role 	|   Location	|   Skills	|   Remote	|   Contact	|
 |---	    |---	    |---	        |---	      |---	      |---	      |
@@ -6,11 +7,7 @@ Please add your info to the bottom of the table in an empty row markdown format.
 | Kate Efimova   	|  Software Engineer 	|  Bay Area, CA  	| GO/TypeScript/Node.js/React/Redux   	| Remote friendly!  	| kefimochi@gmail.com  	|
 |  Nirmal Dalmia 	|ReactJS/React Native Developer   	|  Hyderabad 	| ReactJS, React Native, JavaScript, TypeScript, HTML, CSS, Git, VueJS, Vuex, Redux, MobX, Node, NPM	| :heavy_check_mark: |  nirmaldalmia17@gmail.com <br> [LinkedIn](https://www.linkedin.com/in/nirmaldalmia/) 	|
 |  Anil Pandiya 	|  React JS developer 	|  India 	|   React Ecosystem/REST/Oracle/MongoDB	|  will work 	|   anilpandiya05@gmail.com	|
-| Shiv Kumar Sharma | Fresher, Looking for MERN Stack Developer Role | Jaipur, India (Ready to relocate) | MERN Stack, Android(Java), Firebase | :heavy_check_mark: | kumarshivsharma12@gmail.com <br> [Portfolio](https://shiv-k-sharma.github.io) <br> [LinkedIn](https://www.linkedin.com/in/shiv-k-sharma) |
-| Ashu Deshwal    | Frontend Engineer     | Bangalore / Gurgaon | ReactJs, Javascript, Stylus, Css, Html | :heavy_check_mark:       |  ashudeshwal999@gmail.com <br> [LinkedIn](https://www.linkedin.com/in/ashu-deshwal/)  |
-| Shailesh Shekhawat | Full Stack Developer| Singapore| NodeJS, ReactJS/Redux, javascript/typescript, Python, AWS/Azure, REST API, Jest, MongoDB, MySQL, Docker, Kubernetes, HTML/CSS, Git, Redis, RabbitMQ.|  Remote Or Onsite | shekhawat642@gmail.com <br> [Contact on LinkedIn](https://www.linkedin.com/in/shaileshshekhawat/)|
-| Shivam Sharma| Full Stack Javascrpit Developer| India |React,ReactNative,Node,Git,Javascript | Remote Friendly |shvmsrma@gmail.com  |
-|  Shohel Rana    |  Frontend Developer   |  Bangladesh  | React,Angular,MongoDb,NodeJs,C#,AI |  Relocate  | iamshohelrana@gmail.com |
-| Afraz Momin   | Full Stack Javascript Developer | India  | Javascript, React, Node   | Remote friendly    | afraz.momin@gmail.com  |
+| Cathleen Carbonell  |  Front-end/UI Engineer  | San Francisco, CA  |  JS (ReactJS + Redux, NodeJS), TypeScript, HTML, CSS (Sass/SCSS), Git, Python(Django), UX and UI design (Framer, Sketch) | Can do Remote or onsite! | • [LinkedIn](https://www.linkedin.com/in/catcarbonell/) • [Portfolio](https://catcarbonell.dev) • hello@catcarbn.com |
+|         |         |             |           |           |            |
 |         |         |             |           |           |            |
 |         |         |             |           |           |            |
